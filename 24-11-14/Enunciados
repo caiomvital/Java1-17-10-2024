@@ -1,0 +1,174 @@
+1. Variáveis e Tipos de Dados
+A Loja de Animais do Sr. Bento
+Sr. Bento tem uma loja de animais 
+e precisa de um programa que armazene 
+o nome de cada animal, sua espécie e idade em anos. 
+Além disso, ele quer saber quanto cada um dos bichos 
+come em gramas de ração por dia. 
+Crie variáveis para armazenar essas informações 
+e exiba tudo de maneira organizada para o Sr. Bento revisar.
+
+Estoque de Frutas do Mercado Verão
+No Mercado Verão, a seção de frutas 
+precisa registrar o tipo de cada fruta, 
+a quantidade em estoque, o preço por quilo 
+e uma informação booleana que indique se 
+a fruta está na promoção ou não. 
+Escreva um programa que registre esses dados 
+para quatro frutas diferentes e exiba uma tabela com 
+as informações para o gerente.
+
+Calculadora de Viagem da Família Silva
+A família Silva vai fazer uma viagem de carro 
+e quer saber quanto vai gastar. 
+Escreva um programa que receba o número de quilômetros 
+da viagem, o preço médio do litro de gasolina 
+e o consumo do carro (km/L), 
+e exiba o valor total que será gasto com combustível.
+
+A Conta de Luz da Dona Cida
+Dona Cida quer saber quanto sua conta de luz 
+vai custar este mês. 
+Crie um programa que armazene a quantidade 
+de kWh consumidos, o preço do kWh e 
+o valor da taxa mínima. 
+O programa deve calcular e exibir o valor total da conta.
+
+Super Planilha de Notas Escolares
+João quer um programa que armazene suas notas 
+em quatro matérias e calcule a média. 
+Use variáveis para guardar o nome de cada matéria, 
+as notas de cada uma e exiba a média final, 
+junto com as notas e os nomes das matérias.
+
+2. Estruturas Condicionais
+Ingressos para o Zoológico
+No zoológico, crianças até 12 anos não pagam ingresso, 
+enquanto adultos pagam R$ 20,00 e idosos (acima de 60) 
+pagam metade. Escreva um programa que pergunte 
+a idade de uma pessoa e exiba o valor do ingresso.
+
+Feira de Descontos do Mercado Tropical
+Na Feira de Descontos, o cliente ganha desconto 
+conforme a quantidade de produtos comprados: até 5 itens, 
+sem desconto; de 6 a 10, desconto de 5%; acima de 10, 10%. 
+Escreva um programa que leia a quantidade de itens 
+e o valor total, aplicando o desconto apropriado.
+
+Jogo do Palpite
+O jogo começa pedindo que o usuário insira 
+um número entre 1 e 10. Se o número for menor que 5, 
+exibe "Muito baixo!", se for exatamente 5, "Parabéns, acertou!", 
+e se for maior que 5, "Muito alto!". 
+
+Aprovado ou Recuperação?
+Uma escola considera um aluno aprovado 
+se a média das suas três notas for maior ou igual a 7. 
+Caso contrário, ele vai para recuperação. 
+Escreva um programa que receba três notas 
+e informe se o aluno foi aprovado ou precisa de recuperação.
+
+Desconto no Plano de Academia
+Uma academia oferece um desconto de 20% para pessoas 
+que treinam mais de 5 vezes por semana. 
+Escreva um programa que pergunte quantos dias 
+o usuário treina por semana e mostre o valor com desconto, 
+caso aplicável.
+
+3. Laços de Repetição
+Contando até o Aniversário
+Marta quer fazer uma contagem regressiva de dias 
+até seu aniversário. Escreva um programa que receba 
+o número de dias até o aniversário dela e conte até zero, 
+exibindo uma mensagem para cada dia que passa.
+
+Loja de Tintas do Sr. Alfredo
+O Sr. Alfredo precisa calcular o valor total 
+das latas de tinta vendidas em um dia. 
+Para isso, o programa deve perguntar quantas latas 
+foram vendidas e o preço de cada uma, repetindo 
+o processo até que todos os preços sejam informados, 
+e exibindo o total no final.
+
+Sequência dos Números Ímpares
+João quer visualizar todos os números ímpares 
+de 1 até um valor máximo definido por ele. 
+Crie um programa que exiba a sequência de números 
+ímpares até o valor escolhido.
+
+Quizz do Conhecimento
+Crie um pequeno quiz de 5 perguntas. Cada vez que 
+o usuário responde, o programa deve exibir a próxima 
+pergunta e ao final mostrar o número total de acertos.
+
+Multiplicação com Tabela
+Ana quer estudar a tabuada de um número específico. 
+Escreva um programa que pergunte qual número 
+ela deseja estudar e exiba a tabuada dele do 1 até o 10.
+
+4. List e ArrayList
+Lista de Compras da Dona Maria
+Dona Maria quer organizar sua lista de compras. 
+Crie um programa que permita adicionar itens
+ a uma lista, remover itens e exibir a lista atualizada 
+ para a Dona Maria revisar antes de ir às compras.
+
+Biblioteca Online do Seu João
+Seu João tem uma pequena biblioteca em casa 
+e quer catalogar seus livros. Crie um programa 
+que permita adicionar, remover e listar os títulos 
+dos livros em uma lista.
+
+Músicas Favoritas de Pedro
+Pedro quer criar uma lista com suas músicas favoritas. 
+Escreva um programa que permita adicionar músicas 
+a uma lista e exibir a lista completa ao final.
+
+Cadastro de Alunos
+Em uma turma, os alunos são registrados em uma lista. 
+Escreva um programa que permita cadastrar 
+o nome dos alunos e listar todos os nomes ao final, 
+mostrando quantos alunos foram cadastrados.
+
+Top 10 Filmes
+Júlia quer organizar seus 10 filmes favoritos. 
+Crie um programa que permita adicionar até 10 filmes 
+a uma lista. Caso mais de 10 filmes sejam inseridos, 
+mostre uma mensagem de aviso.
+
+5. POO 
+Biblioteca de Animais
+Crie uma classe Animal com atributos nome, especie e idade, 
+e métodos para mostrar esses dados. Em seguida, 
+crie uma classe Cachorro que herda de Animal 
+e adiciona o método latir. Crie um objeto Cachorro 
+e faça-o latir.
+
+Banco Poupança Fácil
+Crie uma classe ContaBancaria com atributos titular 
+e saldo e métodos para depositar e sacar. 
+Depois, crie a classe ContaPoupanca que herda de ContaBancaria, 
+adicionando um método para calcular juros. 
+Crie uma conta e simule um depósito e um cálculo de juros.
+
+Veículos da Frota
+Crie uma classe Veiculo com atributos marca e ano. 
+Em seguida, crie duas classes Carro e 
+Moto que herdam de Veiculo, cada 
+uma com um método específico (ex., acelerar e empinar). 
+Crie objetos de Carro e Moto e use os métodos
+ específicos de cada um.
+
+Cadastro de Funcionários
+Crie uma classe Pessoa com atributos nome e idade, 
+e uma classe Funcionario que herda de Pessoa com um 
+atributo salario. Adicione um método para exibir 
+todas as informações do funcionário. Instancie um 
+funcionário e mostre seus dados.
+
+Sistema de Pedidos de Lanchonete
+Crie uma classe Produto com atributos nome e preco. 
+Em seguida, crie uma classe Pedido que possui uma lista 
+de Produto e métodos para adicionar e listar os produtos 
+do pedido. Instancie um pedido e adicione alguns produtos, 
+exibindo o total final.
