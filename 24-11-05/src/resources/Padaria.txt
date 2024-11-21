@@ -1,0 +1,30 @@
+Enunciado
+O Sr. Tadeu é o feliz proprietário da padaria 
+"A Massa e a Baguete" e deseja modernizar seu negócio. 
+Ele gostaria de permitir que seus clientes se cadastrassem 
+na padaria, fornecendo suas informações básicas. 
+Para isso, os clientes devem inserir um nome e um CPF válido 
+para efetuar o cadastro. O Sr. Tadeu decidiu contratar 
+um programador para desenvolver essa funcionalidade.
+
+Novas Funcionalidades
+Após o sucesso do cadastro, o Sr. Tadeu gostaria de expandir 
+as funcionalidades do sistema. Ele deseja permitir que os clientes 
+possam adicionar receitas à sua conta. Para garantir que 
+as receitas sejam associadas corretamente aos clientes, 
+o CPF deve ser validado a cada vez que um cliente tentar 
+adicionar uma nova receita.
+
+Programa de Cupons
+Além disso, o Sr. Tadeu quer implementar um programa de fidelidade
+para seus clientes. A cada R$20 em compras, os clientes ganharão 
+um cupom que será armazenado em seu cadastro. 
+O programador terá que implementar a lógica 
+para contabilizar os cupons.
+
+Troca de Cupons por Receitas Preparadas
+Por último, o Sr. Tadeu decidiu que, ao acumularem 10 cupons, 
+os clientes poderão solicitar que a padaria cozinhe a receita 
+que eles adicionaram anteriormente. O programador deverá criar 
+uma nova lógica para verificar se o cliente possui cupons 
+suficientes para essa troca.
